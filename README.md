@@ -2,6 +2,6 @@
 
 - :shamrock: I am currently learning Master in Big Data Analytics in IESEG
 - :rainbow: I love delving into data and exploring interesting things 
-- Connect with me on: LinkedIn
+- :smile: Connect with me on: [LinkedIn](https://www.linkedin.com/in/nguyet-han-nguyen-a333a71ab/)
 
 
