@@ -1,4 +1,4 @@
-### Hi there, I'm Han.:wave:
+### Hi there, I'm Han. :wave:
 
 - :shamrock: I obtained a Master's degree in Big Data Analytics at IESEG
 - :rainbow: I love delving into data and exploring interesting information
